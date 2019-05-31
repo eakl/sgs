@@ -1,0 +1,9 @@
+{
+  "server": {
+    "host": "",
+    "port": 123,
+    "user": "",
+    "passwd": "",
+    "db": "sgs"
+  }
+}
