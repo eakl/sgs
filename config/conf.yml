@@ -1,0 +1,20 @@
+mqtt:
+  uri: mqtt://test.mosquitto.org
+  port: 3000
+  # user and password should be sourced from environment variables
+  user:
+  password:
+  options:
+
+
+
+{
+  "mqtt": {
+    "_comment": "user and password should be sourced from environment variables",
+    "uri": "mqtt://test.mosquitto.org",
+    "port": ,
+    "user": "" ,
+    "password": "",
+    "options": {}
+  }
+}
