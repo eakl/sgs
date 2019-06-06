@@ -1,0 +1,10 @@
+{
+  "mqtt": {
+    "client": null,
+    "uri": "mqtt://test.mosquitto.org",
+    "port": 3000,
+    "user": null,
+    "password": null,
+    "options": null
+  }
+}
